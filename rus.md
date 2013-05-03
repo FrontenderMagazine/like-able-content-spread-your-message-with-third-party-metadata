@@ -146,15 +146,15 @@ Twitter Cards, теперь могут предоставить больше и�
 видеоклипом, для их воспроизведение на основе метаданных выбирается подходящий
 плеер. Следующий список мета-тегов представляет подробную информацию о статье:
 
-		<meta property="og:type" content="article">
-		<meta property="og:url" content="URL объекта">
-		<meta property="og:site_name" content="Название ресурса, на котором расположена статья">
-		<meta property="og:image" content="URL изображения для статьи">
-		<meta property="og:title" content="Заголовок статьи">
-		<meta property="og:description" content="Описание статьи">
-		<meta property="article:author" content="URL страницы автора статьи">
-		<meta property="article:section" content="Раздел, к которому относится статья">
-		<meta property="article:tag" content="Ключевые слова">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="URL объекта">
+	<meta property="og:site_name" content="Название ресурса, на котором расположена статья">
+	<meta property="og:image" content="URL изображения для статьи">
+	<meta property="og:title" content="Заголовок статьи">
+	<meta property="og:description" content="Описание статьи">
+	<meta property="article:author" content="URL страницы автора статьи">
+	<meta property="article:section" content="Раздел, к которому относится статья">
+	<meta property="article:tag" content="Ключевые слова">
 
 Результат добавления этой информации выглядит следующим образом при публикации
 ссылки на Facebook:
@@ -165,19 +165,19 @@ Twitter Cards, теперь могут предоставить больше и�
 статей, видео, аудиозаписей и изображений. Метаданные для статьи для Twitter
 Card выглядят так:
 
-		<meta name="twitter:card" content="summary">
-		<meta name="twitter:url" content="URL статьи">
-		<meta name="twitter:title" content="Заголовок статьи">
-		<meta name="twitter:description" content="Описание статьи">
-		<meta name="twitter:image" content="URL изображения для статьи">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="URL статьи">
+	<meta name="twitter:title" content="Заголовок статьи">
+	<meta name="twitter:description" content="Описание статьи">
+	<meta name="twitter:image" content="URL изображения для статьи">
 
 Следующие опциональные элементы Twitter Card позволяют также указать
 идентификатор автора или организации автора контента в Twitter:
 
-		<meta name="twitter:site" content="@username">
-		<meta name="twitter:site:id" content="Twitter ID">
-		<meta name="twitter:creator" content="@username">
-		<meta name="twitter:creator:id" content="Twitter ID">
+	<meta name="twitter:site" content="@username">
+	<meta name="twitter:site:id" content="Twitter ID">
+	<meta name="twitter:creator" content="@username">
+	<meta name="twitter:creator:id" content="Twitter ID">
 
 Вот как это выглядит в Twitter:
 
